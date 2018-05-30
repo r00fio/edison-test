@@ -23,7 +23,13 @@
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-
+.idea/
+www/
+components/
+node_modules/
+platforms/
+plugins/
+res/
 # misc
 /.sass-cache
 /connect.lock
