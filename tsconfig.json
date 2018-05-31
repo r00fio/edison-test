@@ -9,6 +9,8 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "target": "es5",
+    "types": ["@types/yandex-maps"],
+
     "typeRoots": [
       "node_modules/@types"
     ],
