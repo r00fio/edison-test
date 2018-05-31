@@ -27,7 +27,7 @@
 								"@angular/platform-browser": "^6.0.3",
 								"@angular/platform-browser-dynamic": "^6.0.3",
 								"@angular/router": "^6.0.3",
-								"angular2-yandex-maps": "npm:angular2-yandex-maps",
+								"angular2-yandex-maps": "angular2-yandex-maps",
 								"cordova-android": "^5.1.1",
 								"cordova-browser": "^5.0.3",
 								"cordova-plugin-device": "^2.0.2",
